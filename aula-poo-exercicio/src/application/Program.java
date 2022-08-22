@@ -61,6 +61,10 @@ public class Program {
 				+venda.getDescricaoVenda() + " e o total: " + venda.getValorTotal()
 				);
 
+		System.out.println();
+		System.out.println("_______________________________________________________________________________________");
+		System.out.println();
+
 		System.out.println("Valor da varialvel total: " + venda.getValorTotal());
 
 
